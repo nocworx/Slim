@@ -28,7 +28,7 @@
         }
     ],
     "replace": {
-        "slim/slim": "3.12.5"
+        "slim/slim": "*"
     },
     "require": {
         "php": ">=5.5.0",
